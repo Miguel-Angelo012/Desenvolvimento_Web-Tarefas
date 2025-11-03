@@ -5,7 +5,7 @@ Miguel Ângelo Lima de Sousa - S4
 
 ### Atividades
 
-1. <https://morango-tango.github.io/Atividade-1/> 
+1. <https://Miguel-Angelo012.github.io/Atividade-1/> 
 
 2. <https://morango-tango.github.io/Atividade-2/>
 
